@@ -14,7 +14,7 @@
 }
 
 .shop {
-    border: 1px dotted black;
+    border: 1px dotted rgb(115, 140, 141);
     padding: 1em;
     flex-basis: 30%;
     text-align: center;
